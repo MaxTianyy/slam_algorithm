@@ -1,2 +1,2 @@
 # slam_algorithm
-[Assignments](http://web.stanford.edu/class/cs107/assignments.html)
+SLAM algorithm from [Robot Mapping](http://ais.informatik.uni-freiburg.de/teaching/ws17/mapping/)  WS 2017/18
