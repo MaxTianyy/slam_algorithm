@@ -3,6 +3,8 @@
 <p align="center">
   <img src="plots/simulation-pose-pose.png" width=676 height=450>
 </p>
+simulation-pose-pose
+
 
 <p align="center">
   <img src="plots/intel.png" width=676 height=450>
